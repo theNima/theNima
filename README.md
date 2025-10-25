@@ -12,7 +12,7 @@ I build **data-driven** and **machine learning** solutions for safety training, 
 
 ---
 ### Tech Stack
-Python • PyTorch • TensorFlow • OpenCV • Scikit-learn • NumPy • Pandas • Matplotlib • YOLOv8 • Git • VS Code
+Python • PyTorch • TensorFlow • OpenCV 
 
 ---
 ### Connect
